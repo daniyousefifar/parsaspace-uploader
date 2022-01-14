@@ -1,0 +1,7 @@
+{
+  "require": {
+    "fabpot/goutte": "^4.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  }
+}
